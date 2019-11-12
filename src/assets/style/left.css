@@ -1,0 +1,16 @@
+.el-collapse-item__header{
+    /* background-color: #a4b9a2 !important; */
+    background-color: #798d95 !important;
+}
+.el-collapse-item__wrap,.el-collapse-item__header{
+    border: none;
+}
+/* .el-collapse-item__header{
+    border: none;
+} */
+.el-collapse{
+    border: none;
+}
+.el-collapse-item__header{
+    font-size: 0.9rem;
+}
